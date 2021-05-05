@@ -1,0 +1,6 @@
+id,first_name,last_name,phone,email,paypal_email,dob,role,group,external_id,timezone,metadata
+13,Jackk,McGinnis,+441231000000,test1@test.com,test1@test.com,1980-12-18,admin,"1,2",,,
+14,John Da Mann,Repici,+441231000000,test2@test.com,test1@test.com,1980-12-18,admin,3,,,
+15,Stephenn,Tyler,+441231000000,test3@test.com,test1@test.com,1980-12-18,user,4,,,
+16,Thanks,Blankman,+441231000000,test4@test.com,test1@test.com,1980-12-18,user,"5,6",,,
+17,Joan,Jet,+441231000000,test5@test.com,test1@test.com,1980-12-18,admin,"1,4",,,

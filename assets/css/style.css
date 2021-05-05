@@ -1,0 +1,10 @@
+.v-data-table-header {
+    background-color: #A87FFF;
+}
+.theme--light.v-data-table > .v-data-table__wrapper > table > thead > tr > th {
+    color: #fff !important;
+}
+
+.theme--light.v-data-table .v-data-table-header th.sortable.active .v-data-table-header__icon {
+    color: #fff !important;
+}

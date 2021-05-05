@@ -1,0 +1,3 @@
+name,competition_id,type,amount,currency,reference,winner_count
+bulk_prize_test1,1,cash,3,gbp,,20
+bulk_prize_test2,2,cash,30,gbp,,20
